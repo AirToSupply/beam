@@ -42,7 +42,7 @@ require (
 	github.com/xitongsys/parquet-go-source v0.0.0-20220315005136-aec0fe3e777c
 	golang.org/x/net v0.0.0-20220617184016-355a448f1bc9
 	golang.org/x/oauth2 v0.0.0-20220608161450-d0670ef3b1eb
-	golang.org/x/sys v0.0.0-20220615213510-4f61da869c0c
+	golang.org/x/sys v0.21.0
 	golang.org/x/text v0.3.7
 	google.golang.org/api v0.85.0
 	google.golang.org/genproto v0.0.0-20220617124728-180714bec0ad
